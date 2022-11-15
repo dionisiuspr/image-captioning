@@ -1,0 +1,8 @@
+{
+    "eval_gen_len": 23.270833,
+    "eval_loss": 2.422172,
+    "eval_rouge1": 0.158409,
+    "eval_rouge2": 0.081619,
+    "eval_rougeL": 0.158799,
+    "eval_rougeLsum": 0.158041
+}

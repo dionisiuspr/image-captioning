@@ -1,0 +1,2 @@
+Epoch... (1/5 | Step: 5 | Eval Loss: 5.90330696105957 | Eval rouge1: 0.0 | Eval rouge2: 0.0 | Eval rougeL: 0.0 | Eval rougeLsum: 0.0 | Eval bleu: 0.0 | Eval bleu_l: 0.0 | Eval gen_len: 28.208333 |)
+Epoch... (1/5 | Step: 10 | Eval Loss: 5.133391380310059 | Eval rouge1: 0.006929 | Eval rouge2: 0.0 | Eval rougeL: 0.006505 | Eval rougeLsum: 0.006505 | Eval bleu: 0.0 | Eval bleu_l: 0.0 | Eval gen_len: 30.0 |)

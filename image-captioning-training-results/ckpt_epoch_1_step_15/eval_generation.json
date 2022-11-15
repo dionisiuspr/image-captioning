@@ -1,0 +1,386 @@
+[
+    {
+        "label": "singkapan batuan sedimen klastik dengan bidang perlapisan yang tidak tegas, batulumpur karbonatan,",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan batuan sedimen klastik dengan bidang perlapisan yang tidak tegas, masif, retak-retak",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan batuan sedimen klastik dan batulumpur karbonatan",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batulumpur karbonatan dan singkapan batuan sedimen klastik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan batuan sedimen klastik dengan bidang perlapisan yang tidak tegas dan batulumpur karbonatan",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batugamping dengan sisipan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batugamping pasiran berwarna merah bata/kecoklatan",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batugamping pasiran berwarna merah bata/kecoklatan menindih batugamping pasiran berwarna ke",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batugamping bersisipan serpih dan batugamping pasiran berwarna kelabu cerah",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batugamping bersisipan serpih dan batugamping pasiran berwarna kelabu cerah cenderung menyerp",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batugamping dengan sisipan serpih berwarna kelabu",
+        "pred": "batuan  batuan  batuan  bengal  bengal  bengal  bengal"
+    },
+    {
+        "label": "batugamping",
+        "pred": "batuan  batuan  batuan  bengal  bengal  bengal  bengal"
+    },
+    {
+        "label": "batugamping besisipan serpih berwarna kelabu dan lempung lanauan",
+        "pred": "batuan  batuan  batuan  bengal  bengal  bengal  bengal"
+    },
+    {
+        "label": "singkapan batugamping pasiran berwarna kelabu kecoklatan dan lempung lanuaan",
+        "pred": "batuan  batuan  batuan  bengal  bengal  bengal  bengal"
+    },
+    {
+        "label": "batugamping dengan sisipan serpih",
+        "pred": "batuan  batuan  batuan  bengal  bengal  bengal  bengal"
+    },
+    {
+        "label": "batugamping, warna kelabu kehijauan, dan mudstone",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batugamping kelabu kehijauan, dan mudstone",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batugamping dan mudstone",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batugamping, warna kelabu kehijauan, dan mudstone",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batugamping, warna kelabu dan mudstone",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan perselingan batupasir dengan konglomerat",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batupasir masif dengan ukuran butir pasir halus-lanau, warna segar abu-ab",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batupasir masif dan karbonatan",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan perselingan batupasir dengan konglomerat dan karbonatan",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batupasir masif dengan ukuran butir pasir halus-lanau, warna segar abu-ab",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batupasir",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batupasir, kompak, retak-retak, kelabu",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batupasir, kompak, retak-retak, kelabu",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan batupasir",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batupasir, kompak, retak-retak, kelabu",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "fosil foraminifera, silica, karbon, sebagian terdapat komponen glaukonit berwarna",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "fragmen-fragmen fosil foraminifera, silica, karbon, sebagian terdapat komponen gl",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "fosil foraminifera, silica, karbon, sebagian terdapat komponen glaukonit berwarna",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "fragmen-fragmen fosil foraminifera, silica, karbon, sebagian terdapat komponen gl",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "fosil foraminifera, silica, karbon, sebagian terdapat komponen glaukonit berwarna",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik berukuran butir lempungan (lanau-lempung) berwarna segar c",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping berwarna segar coklat tua",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik dengan berukuran butir lempungan",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik berukuran butiran lempungan dan berwarna segar coklat tua",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping berwarna segar coklat tua",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping lempung-lanauan",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping dan batu lempung-lanauan",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping berlapis batu lempung-lanauan",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping lempung-lanauan",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping lempung-lanauan",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik dengan berukuran butir lempungan dengan lensa rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik dengan berukuran butir lempungan dengan lensa rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "lensa rijang hitam dan singkapan batugamping klastik dengan berukuran butir",
+        "pred": "batuan"
+    },
+    {
+        "label": "batugamping klastik dan rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan batugamping klastik dengan berukuran butir lempungan dengan lensa rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "rijang hitam, retak-retak yang terisi oleh mineral silika, sebagian menunjukkan campuran",
+        "pred": "batuan"
+    },
+    {
+        "label": "rijang hitam, retak-retak yang terisi oleh mineral silika, sebagian menunjukkan campuran",
+        "pred": "batuan"
+    },
+    {
+        "label": "rijang hitam, retak-retak yang terisi oleh mineral silika, sebagian menunjukkan campuran",
+        "pred": "batuan"
+    },
+    {
+        "label": "lensa rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "lensa rijang hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "singkapan perselingan batupasir, rijang dan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "singkapan perselingan batupasir, rijang dan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "singkapan perselingan batupasir, rijang dan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "singkapan perselingan batupasir, rijang dan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "singkapan perselingan batupasir, rijang dan serpih",
+        "pred": "batuan  brazilian  brazilian  brazilian  brazilian  brazilian"
+    },
+    {
+        "label": "batuan pualam atau marmer berpita warna",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan pualam atau marmer adalah mempunyai pita-pita warna, kristal-kristalny",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan pualam atau marmer adalah mempunyai pita-pita warna, kristal-kristalny",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan pualam atau marmer berpita warna",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan pualam atau marmer adalah mempunyai pita-pita warna, kristal-kristalny",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan sabak berwarna abu-abu kehijau-hijauan dan hitam",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan sabak berwarna abu-abu kehijau-hijauan dan hitam",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan sabak berwarna abu-abu kehijau-hijauan dan hitam",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan sabak berwarna abu-abu kehijau-hijauan dan hitam",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan sabak berwarna abu-abu kehijau-hijauan dan hitam",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan gneiss berwarna putih kebau-abuan, terdapat goresan-goresan yang ters",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan gneiss berwarna putih kebau-abuan, bergoresan",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan gneiss berwarna putih berbentuk penjajaran yang tipis",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan geniss bentuk penjajaran yang tipis",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan gneiss berwarna putih berbentuk penjajaran tipis, dan bergoresan",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu berbalutkan plagioklas dan penokris hornblende bertekstur kasar",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan andesit bertekstur kasar",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu berbalutkan plagioklas dan penokris hornblende",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan andesit berwarna abu-abu",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan andesit berwarna abu-abu dan bertekstur kasar",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna coklat yang bertekstur porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit bertekstur porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna coklat",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit coklat yang bertekstur porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "batuan andesit coklat bertekstur porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu terang yang mengandung hornblende berwarna hitam dari lava gunung",
+        "pred": "batuan"
+    },
+    {
+        "label": "andesit mengandung hornblende berwarna hitam dari lava gunung api",
+        "pred": "batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu terang dengan hornblende berwarna hitam dari lava gunung api",
+        "pred": "batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu terang dari lava gunung api mengandung hornblende berwarna hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "andesit dari lava gunung api mengandung hornblende berwarna hitam",
+        "pred": "batuan"
+    },
+    {
+        "label": "andesit berwarna abu terang yang mengandung kristal porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit abu terang dengan krital porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berselingan dengan krital porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna abu terang berbalut krital porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit dengan balutan krital porfiritik",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    },
+    {
+        "label": "andesit berwarna abu-abu terang bertekstur kristal halus",
+        "pred": "batuan  batuan  batuan  batuan  batuan  batuan  batuan  batuan"
+    }
+]
